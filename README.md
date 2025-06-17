@@ -1,0 +1,1 @@
+# samsung-fakestore-api
