@@ -1,0 +1,16 @@
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\model\User.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\interfaces\rest\UserController.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\model\Product.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\model\Cart.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\infrastructure\configuration\RestTemplateConfig.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\interfaces\rest\ProductController.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\repository\UserRepository.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\repository\ProductRepository.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\SamsungfakestoreApplication.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\infrastructure\client\FakeStoreClient.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\application\dto\ProductDTO.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\application\dto\CartDTO.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\application\services\FakeStoreService.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\domain\repository\CartRepository.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\application\dto\UserDTO.java
+C:\Projetos\samsung-fakestore\samsung-fakestore-api\src\main\java\com\samsung\fakestore\interfaces\rest\CartController.java
