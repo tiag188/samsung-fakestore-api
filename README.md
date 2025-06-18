@@ -32,11 +32,11 @@ Antes de começar, instale:
    ```
 4. A API estará disponível em:
    ```
-   http://localhost:8080
+   http://localhost:8081
    ```
 5. Teste acessando, por exemplo:
    ```
-   http://localhost:8080/products
+   http://localhost:8081/api/products
    ```
 
 ---
@@ -44,7 +44,7 @@ Antes de começar, instale:
 ## Observações
 
 - Sempre rode o backend antes do frontend.
-- Se a porta 8080 (backend) ou 8081 (frontend) estiverem ocupadas, altere no arquivo `application.properties`.
+- Se a porta 8081 (backend) ou 8080 (frontend) estiverem ocupadas, altere no arquivo `application.properties`.
 - Use `Ctrl + C` para parar as aplicações no terminal.
 - Para problemas de dependência, execute:
   ```bash
